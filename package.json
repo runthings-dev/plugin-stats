@@ -1,0 +1,13 @@
+{
+  "name": "plugin-stats",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "track": "node lib/track-stats.mjs",
+    "graphs": "node lib/generate-graphs.mjs"
+  },
+  "dependencies": {
+    "chart.js": "4.5.1",
+    "chartjs-node-canvas": "5.0.0"
+  }
+}

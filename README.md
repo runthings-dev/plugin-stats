@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,650+ active installs
+## Overall: 1,660+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -30,7 +30,7 @@
 
 ![Jsf Apply Button Scroll To Top Active Installs](./generated/runthings-jsf-apply-button-scroll-to-top.png)
 
-### Wc Coupons Role Restrict — 40+ active installs
+### Wc Coupons Role Restrict — 50+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-wc-coupons-role-restrict/)
 

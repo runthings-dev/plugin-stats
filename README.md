@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,660+ active installs
+## Overall: 1,680+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -18,13 +18,13 @@
 
 ![Bulk Page Stub Creator Active Installs](./generated/bulk-page-stub-creator.png)
 
-### Current Year Shortcode — 50+ active installs
+### Current Year Shortcode — 60+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-current-year-shortcode/)
 
 ![Current Year Shortcode Active Installs](./generated/runthings-current-year-shortcode.png)
 
-### Jsf Apply Button Scroll To Top — 50+ active installs
+### Jsf Apply Button Scroll To Top — 60+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-jsf-apply-button-scroll-to-top/)
 

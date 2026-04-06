@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,680+ active installs
+## Overall: 1,690+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -18,7 +18,7 @@
 
 ![Bulk Page Stub Creator Active Installs](./generated/bulk-page-stub-creator.png)
 
-### Current Year Shortcode — 60+ active installs
+### Current Year Shortcode — 70+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-current-year-shortcode/)
 

@@ -18,17 +18,17 @@
 
 ![Bulk Page Stub Creator Active Installs](./generated/bulk-page-stub-creator.png)
 
-### Current Year Shortcode — 70+ active installs
-
-[View on Plugin Directory](https://wordpress.org/plugins/runthings-current-year-shortcode/)
-
-![Current Year Shortcode Active Installs](./generated/runthings-current-year-shortcode.png)
-
-### Jsf Apply Button Scroll To Top — 60+ active installs
+### Jsf Apply Button Scroll To Top — 70+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-jsf-apply-button-scroll-to-top/)
 
 ![Jsf Apply Button Scroll To Top Active Installs](./generated/runthings-jsf-apply-button-scroll-to-top.png)
+
+### Current Year Shortcode — 60+ active installs
+
+[View on Plugin Directory](https://wordpress.org/plugins/runthings-current-year-shortcode/)
+
+![Current Year Shortcode Active Installs](./generated/runthings-current-year-shortcode.png)
 
 ### Wc Coupons Role Restrict — 50+ active installs
 

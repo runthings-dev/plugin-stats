@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,740+ active installs
+## Overall: 1,750+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -42,6 +42,12 @@
 
 ![Secrets Active Installs](./generated/runthings-secrets.png)
 
+### Taxonomy Template Selector — 10+ active installs
+
+[View on Plugin Directory](https://wordpress.org/plugins/runthings-taxonomy-template-selector/)
+
+![Taxonomy Template Selector Active Installs](./generated/runthings-taxonomy-template-selector.png)
+
 ### Category Children Coupons — 0+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-category-children-coupons/)
@@ -53,12 +59,6 @@
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-empty-media-title/)
 
 ![Empty Media Title Active Installs](./generated/runthings-empty-media-title.png)
-
-### Taxonomy Template Selector — 0+ active installs
-
-[View on Plugin Directory](https://wordpress.org/plugins/runthings-taxonomy-template-selector/)
-
-![Taxonomy Template Selector Active Installs](./generated/runthings-taxonomy-template-selector.png)
 
 ### Wc Coupons Required Products — 0+ active installs
 

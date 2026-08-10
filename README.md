@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,660+ active installs
+## Overall: 1,760+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -12,7 +12,7 @@
 
 ![Taxonomy Tags To Checkboxes Active Installs](./generated/runthings-taxonomy-tags-to-checkboxes.png)
 
-### Bulk Page Stub Creator — 400+ active installs
+### Bulk Page Stub Creator — 500+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/bulk-page-stub-creator/)
 

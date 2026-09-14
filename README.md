@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,460+ active installs
+## Overall: 1,470+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -48,6 +48,12 @@
 
 ![Taxonomy Template Selector Active Installs](./generated/runthings-taxonomy-template-selector.png)
 
+### Wc Order Departments — 10+ active installs
+
+[View on Plugin Directory](https://wordpress.org/plugins/runthings-wc-order-departments/)
+
+![Wc Order Departments Active Installs](./generated/runthings-wc-order-departments.png)
+
 ### Category Children Coupons — 0+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-category-children-coupons/)
@@ -65,9 +71,3 @@
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-wc-coupons-required-products/)
 
 ![Wc Coupons Required Products Active Installs](./generated/runthings-wc-coupons-required-products.png)
-
-### Wc Order Departments — 0+ active installs
-
-[View on Plugin Directory](https://wordpress.org/plugins/runthings-wc-order-departments/)
-
-![Wc Order Departments Active Installs](./generated/runthings-wc-order-departments.png)

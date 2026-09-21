@@ -1,12 +1,12 @@
 # Plugin Stats
 
-## Overall: 1,470+ active installs
+## Overall: 1,370+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
 ## By Plugin
 
-### Taxonomy Tags To Checkboxes — 800+ active installs
+### Taxonomy Tags To Checkboxes — 700+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-taxonomy-tags-to-checkboxes/)
 

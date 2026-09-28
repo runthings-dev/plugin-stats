@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,370+ active installs
+## Overall: 1,460+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -12,7 +12,7 @@
 
 ![Taxonomy Tags To Checkboxes Active Installs](./generated/runthings-taxonomy-tags-to-checkboxes.png)
 
-### Bulk Page Stub Creator — 400+ active installs
+### Bulk Page Stub Creator — 500+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/bulk-page-stub-creator/)
 
@@ -24,7 +24,7 @@
 
 ![Jsf Apply Button Scroll To Top Active Installs](./generated/runthings-jsf-apply-button-scroll-to-top.png)
 
-### Current Year Shortcode — 80+ active installs
+### Current Year Shortcode — 70+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-current-year-shortcode/)
 

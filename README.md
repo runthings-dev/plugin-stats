@@ -1,6 +1,6 @@
 # Plugin Stats
 
-## Overall: 1,470+ active installs
+## Overall: 1,460+ active installs
 
 ![All Plugins Active Installs](./generated/overall-active-installs.png)
 
@@ -30,7 +30,7 @@
 
 ![Current Year Shortcode Active Installs](./generated/runthings-current-year-shortcode.png)
 
-### Wc Coupons Role Restrict — 70+ active installs
+### Wc Coupons Role Restrict — 60+ active installs
 
 [View on Plugin Directory](https://wordpress.org/plugins/runthings-wc-coupons-role-restrict/)
 
